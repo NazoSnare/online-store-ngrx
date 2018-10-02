@@ -2,6 +2,7 @@
   "name": "online-store",
   "version": "0.0.0",
   "license": "MIT",
+  "author": "Malcom Miya",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
